@@ -1,0 +1,27 @@
+.container-fluid {
+    background-color: rgb(2, 2, 2);
+    font: initial;
+   font-size: x-large;
+}
+
+.navbar-brand>img {
+    width: 110px;
+}
+
+.pro-nas {
+    background-color :rgb(3, 3, 3);
+    color: rgb(254, 255, 255);
+    text-align: center;
+
+}
+
+.new-img {
+    text-align: center;
+}
+
+.nav-link>img {
+width: 90px;
+display: flex;
+}
+
+
